@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-PC01B-4A-DOSTAD109-streamed-do_stable_sample
 data_stream: CE04OSPS-PC01B-4A-DOSTAD109-streamed-do_stable_sample
 end_date: '2022-01-01T00:50:35.040Z'
-last_updated: '2022-01-22T03:11:36.407660Z'
+last_updated: '2022-01-22T03:26:17.544826'
 start_date: '2018-11-07T23:08:13.070Z'
-status: pending
+status: success
